@@ -102,6 +102,6 @@ VFXBlackboardCategory > .mainContainer > #sectionHeader
 }
 
 #divider.horizontal {
-    height:0.01;
+    height: 0.01px;
     border-bottom-width: 1px;
 }

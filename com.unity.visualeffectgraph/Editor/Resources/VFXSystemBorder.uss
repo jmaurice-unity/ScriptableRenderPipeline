@@ -9,7 +9,6 @@ VFXSystemBorder.graphElement
     --middle-color:#BF9220;
     --end-color:#C24F30;
     border-width: 6px;
-    border: 6;
     opacity:0.25;
     flex-direction:column;
     align-items:stretch;

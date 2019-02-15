@@ -78,11 +78,6 @@
     border-right-width: 2px;
 }
 
-#title-field
-{
-    positionType:absolute;
-}
-
 
 * #title, * #title-field
 {
@@ -157,7 +152,6 @@
     margin-bottom: 1px;
     padding-left:0;
     padding-right:0;
-    -border-color: rgba(0, 0, 0, 0.5);
 }
 
 .size-medium #title, .size-medium #title-field
